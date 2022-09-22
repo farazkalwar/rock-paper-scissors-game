@@ -2,11 +2,7 @@
   "name": "rock-paper-scissors-game",
   "version": "1.0.0",
   "description": "2 player - rock,paper,scissors game",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node script.js"
-  },
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/farazkalwar/rock-paper-scissors-game.git"
